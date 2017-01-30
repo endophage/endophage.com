@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "endophage"
-baseURL = "http://golpher-laura-42487.netlify.com/"
+baseURL = "http://endophage.com/"
 theme = "blueberry"
 
 [params]
