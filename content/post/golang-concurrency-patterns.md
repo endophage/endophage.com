@@ -4,7 +4,7 @@ title = "Golang Concurrency Pattern"
 
 +++
 
-## A pattern for jobs that need a worker pool.
+### A pattern for jobs that need a worker pool.
 
 Rule 1 of good concurrency in Go: thou shalt use channels and don’t even think 
 about sending a pointer down it!

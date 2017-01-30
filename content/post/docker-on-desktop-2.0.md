@@ -4,8 +4,6 @@ title = "Docker Containers on the Desktop 2.0"
 
 +++
 
-## Make GUI apps run transparently in Docker Containers!
-
 Just over a year ago, having accepted an offer to work at Docker and on a short
 break before starting, Jess Frazelle wrote 
 [this awesome post](https://blog.jessfraz.com/post/docker-containers-on-the-desktop/)

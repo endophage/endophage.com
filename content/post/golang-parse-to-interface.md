@@ -4,8 +4,6 @@ title = "Golang Parsing JSON into Interfaces"
 
 +++
 
-## Using interface types when unmarshalling JSON
-
 Interfaces are an incredibly powerful feature in Go, and JSON is one of the 
 most ubiquitous serialization formats in use today. If you’re reasonably 
 new to Go you may not have tried to mash the two together yet, but if you 
