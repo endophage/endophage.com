@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "endophage"
-baseURL = "http://endophage.com/"
+baseURL = "https://endophage.com/"
 theme = "blueberry"
 
 [params]
