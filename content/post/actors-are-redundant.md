@@ -40,18 +40,18 @@ required, without taking into account the specifics of your system.
 
 To that end, I propose a 1 to 10 scale for Exploitability that attempts to
 provide you with an objective, useful, and relatable "actors" that would be
-able to carry at an exploit at each level. Starting from the top, they are:
+able to carry at an exploit at each level. Starting from the bottom, they are:
 
-10. Multiple nation states acting in collusion.
-9. A single nation state.
-8. Multiple corporations acting in collusion.
-7. A single corporation.
-6. A highly skilled domain expert for the relevant domain.
-5. A highly skilled engineer not an expert in the relevant domain.
-4. A technical user that can tweak already available exploit tools.
-3. A semi-technical user that can use but not modify available exploit tools.
-2. A non-technical user acting in a malicious way.
 1. A user acting in an unintended but non-malicious way.
+2. A non-technical user acting in a malicious way.
+3. A semi-technical user that can use but not modify available exploit tools.
+4. A technical user that can tweak already available exploit tools.
+5. A highly skilled engineer not an expert in the relevant domain.
+6. A highly skilled domain expert for the relevant domain.
+7. A single corporation.
+8. Multiple corporations acting in collusion.
+9. A single nation state.
+10. Multiple nation states acting in collusion.
 
 I would anticipate many of your threats will receive a 4-6 score based on
 this scale and that's fine. The point of DREAD scoring is to prioritize your
