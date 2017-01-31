@@ -10,7 +10,7 @@ matter. I don't care if you prefer spaces to tabs, like your braces on the same
 line or the next line, or prefer underscores vs camelCase.
 
 When you work as part of a team, the purpose of coding style is to create a 
-uniformity to the code, such that any member of the team not only knows What
+uniformity to the code, such that any member of the team not only knows what
 to expect, but knows what is expected of them. You should be able to open any
 file in a team project you're working on and, beyond anyone that likes to pick
 quirky variable names, or that Brit who keeps putting u's where they belong, 
